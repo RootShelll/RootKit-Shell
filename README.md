@@ -1,6 +1,6 @@
 ### PHP RootKit Backdoor – Features & Security Risks
 
-##Password:
+## Password:
 ```bash
 R00t
 ```
