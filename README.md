@@ -1,6 +1,9 @@
-Here’s a reformatted version of your content suitable for a GitHub `README.md` file. I've removed the CSS and adjusted the formatting for Markdown compatibility, ensuring that code snippets are easily copyable.
-
 ### PHP RootKit Backdoor – Features & Security Risks
+
+Password:
+```bash
+R00t
+```
 
 #### Overview
 
